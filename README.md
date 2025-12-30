@@ -24,7 +24,7 @@ Com ele, é possível montar um catálogo de livros com informações como títu
 
 * Como rodar o projeto
 
-1. Clone o repositório:
+1. Clone o repositório: git clone https://github.com/julirodrigues10/LiterAlura.git
 
 OBS: 
  Configure o banco de dados PostgreSQL no application.properties.
